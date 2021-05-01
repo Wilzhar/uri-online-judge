@@ -1,0 +1,192 @@
+CASE# 1:
+5 not found
+170 not found
+139 found at 86
+37 found at 18
+20 found at 11
+117 found at 74
+186 not found
+192 not found
+63 not found
+197 found at 117
+172 found at 104
+22 not found
+129 not found
+59 found at 30
+116 found at 73
+70 found at 39
+117 found at 74
+169 found at 101
+109 found at 68
+195 not found
+102 not found
+174 not found
+115 found at 71
+147 not found
+148 not found
+143 found at 87
+28 found at 13
+25 found at 12
+153 found at 91
+200 not found
+174 not found
+110 not found
+148 not found
+148 not found
+51 found at 26
+147 not found
+190 not found
+82 found at 48
+107 found at 65
+10 found at 6
+91 not found
+80 not found
+192 not found
+38 found at 19
+188 found at 113
+44 found at 24
+168 found at 100
+200 not found
+115 found at 71
+200 not found
+78 found at 45
+59 found at 30
+134 not found
+70 found at 39
+10 found at 6
+131 not found
+175 not found
+180 not found
+106 not found
+17 not found
+139 found at 86
+2 not found
+97 found at 60
+194 not found
+154 not found
+170 not found
+135 not found
+33 not found
+7 found at 2
+143 found at 87
+146 not found
+137 not found
+177 found at 106
+193 not found
+171 not found
+160 found at 94
+128 not found
+151 not found
+68 found at 36
+96 not found
+75 found at 42
+39 not found
+168 found at 100
+48 not found
+146 not found
+162 not found
+3 not found
+147 not found
+32 found at 16
+59 found at 30
+84 not found
+151 not found
+11 not found
+145 found at 89
+120 not found
+113 not found
+31 found at 15
+3 not found
+42 found at 23
+47 not found
+8 found at 5
+20 found at 11
+39 not found
+85 not found
+31 found at 15
+56 found at 27
+198 not found
+140 not found
+54 not found
+165 not found
+192 not found
+24 not found
+7 found at 2
+85 not found
+76 found at 44
+105 found at 64
+34 not found
+59 found at 30
+103 not found
+93 not found
+181 found at 111
+44 found at 24
+18 found at 8
+19 found at 10
+49 found at 25
+88 found at 51
+44 found at 24
+131 not found
+155 found at 92
+112 not found
+9 not found
+189 found at 115
+113 not found
+75 found at 42
+35 not found
+39 not found
+101 found at 63
+148 not found
+160 found at 94
+10 found at 6
+22 not found
+142 not found
+29 not found
+7 found at 2
+21 not found
+163 found at 95
+121 not found
+190 not found
+77 not found
+104 not found
+197 found at 117
+200 not found
+56 found at 27
+30 found at 14
+123 not found
+198 not found
+85 not found
+85 not found
+11 not found
+104 not found
+174 not found
+113 not found
+174 not found
+11 not found
+97 found at 60
+169 found at 101
+61 not found
+109 found at 68
+141 not found
+174 not found
+138 not found
+155 found at 92
+8 found at 5
+113 not found
+177 found at 106
+5 not found
+166 found at 98
+184 not found
+24 not found
+143 found at 87
+13 not found
+187 not found
+149 not found
+163 found at 95
+159 found at 93
+129 not found
+111 found at 69
+78 found at 45
+39 not found
+8 found at 5
+79 found at 46
