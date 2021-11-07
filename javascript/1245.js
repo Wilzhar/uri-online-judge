@@ -7,7 +7,7 @@ var finish = line + 1;
 
 while (line) {
     countPairsBoots(start, finish)
-    var line = parseInt(lines[finish]);
+    line = parseInt(lines[finish]);
     start = finish + 1;
     finish = parseInt(start + line);
 }

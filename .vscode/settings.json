@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.js": "javascriptreact",
+        "functional": "cpp",
+        "bitset": "cpp",
+        "set": "cpp",
+        "string_view": "cpp",
+        "regex": "cpp",
+        "thread": "cpp"
+    }
+}
